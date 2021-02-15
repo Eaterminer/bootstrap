@@ -1,0 +1,8 @@
+.top {
+    position: sticky;
+    top: 0px;
+}
+
+maxDisplay {
+    z-index: 999;
+}
